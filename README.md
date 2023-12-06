@@ -23,3 +23,8 @@
 ![17](https://github.com/BELKADIHajar/TP4/assets/92253821/4317294d-98dc-43a6-b763-f0e5f839a300)
 ![16-gateway-inventory](https://github.com/BELKADIHajar/TP4/assets/92253821/d61abb70-f573-4f23-aacd-a171919b7621)
 ![16](https://github.com/BELKADIHajar/TP4/assets/92253821/74f54be0-49fa-4402-8436-ae8da8cb2743)
+# Front (Angular) Test :
+![Capture d'écran 2023-12-06 131914](https://github.com/BELKADIHajar/TP4/assets/92253821/974f8e76-0945-498c-80c2-fb18ec4df443)
+![Capture d'écran 2023-12-06 131858](https://github.com/BELKADIHajar/TP4/assets/92253821/05af0ef6-96f0-4592-b02e-0971543cbb41)
+![Capture d'écran 2023-12-06 131843](https://github.com/BELKADIHajar/TP4/assets/92253821/955891ea-0e89-4feb-aaae-8d689d2af67f)
+![1](https://github.com/BELKADIHajar/TP4/assets/92253821/437c4a0a-305d-4c6b-b85c-f8b3965b8a9d)
